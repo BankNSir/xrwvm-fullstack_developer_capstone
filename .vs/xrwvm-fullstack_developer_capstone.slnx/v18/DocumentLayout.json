@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\xrwvm-fullstack_developer_capstone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\xrwvm-fullstack_developer_capstone\\server\\frontend\\static\\About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\frontend\\static\\About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\xrwvm-fullstack_developer_capstone\\server\\frontend\\static\\contactus.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\frontend\\static\\contactus.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\xrwvm-fullstack_developer_capstone\\server\\frontend\\static\\About.html",
+              "RelativeDocumentMoniker": "server\\frontend\\static\\About.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\xrwvm-fullstack_developer_capstone\\server\\frontend\\static\\About.html",
+              "RelativeToolTip": "server\\frontend\\static\\About.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-20T10:03:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contactus.png -  [English (United States)] - PNG [400x400, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\xrwvm-fullstack_developer_capstone\\server\\frontend\\static\\contactus.png",
+              "RelativeDocumentMoniker": "server\\frontend\\static\\contactus.png",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\xrwvm-fullstack_developer_capstone\\server\\frontend\\static\\contactus.png -  [English (United States)] - PNG [400x400, 32 bit, PNG]",
+              "RelativeToolTip": "server\\frontend\\static\\contactus.png -  [English (United States)] - PNG [400x400, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-20T10:02:57.296Z",
+              "EditorCaption": " -  [English (United States)] - PNG [400x400, 32 bit, PNG]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
