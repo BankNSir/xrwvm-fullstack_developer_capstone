@@ -124,3 +124,9 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contacts {
+  font: 30px sans-serif;
+  color:rgb(35, 138, 179);
+  margin: .5cm;
+}
